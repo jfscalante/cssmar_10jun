@@ -15,6 +15,8 @@
     background: gray;
     border-radius: 1em;
     margin: 1em;
+    background: url(../img/oceano-1-e1565804273438-800x416.jpg);
+    background-repeat: no-repeat;
 }
 #nav{
     height: 10%;
